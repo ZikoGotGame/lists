@@ -1,0 +1,1 @@
+I am building a bunch of silly linked lists so that I can get better at Rust :) (Kill me)
